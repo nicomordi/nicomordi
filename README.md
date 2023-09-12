@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nicomordi
 - 👀 I’m interested in Data Analyst and Machine Learning
 - 🌱 I’m currently learning Python and SQL
-- 💞️ I’m looking to collaborate on a Junior Data Analys 
+- 💞️ I’m looking to collaborate on a Junior Data Science 
 - 📫 How to reach me nicomordi@gmail.com
 
 <!---
